@@ -1,0 +1,36 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "1": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "2": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "3": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "5": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "6": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "8": {
+      "item": "contree_des_royaumes:vibranium"
+    }
+  },
+  "result": {
+    "item": "contree_des_royaumes:vibranium_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "contree_des_royaumes:saphir"
+    },
+    "2": {
+      "item": "contree_des_royaumes:saphir"
+    },
+    "3": {
+      "item": "contree_des_royaumes:saphir"
+    },
+    "4": {
+      "item": "contree_des_royaumes:saphir"
+    },
+    "5": {
+      "item": "contree_des_royaumes:saphir"
+    },
+    "6": {
+      "item": "contree_des_royaumes:saphir"
+    },
+    "7": {
+      "item": "contree_des_royaumes:saphir"
+    },
+    "8": {
+      "item": "contree_des_royaumes:saphir"
+    }
+  },
+  "result": {
+    "item": "contree_des_royaumes:saphir_armor_chestplate",
+    "count": 1
+  }
+}

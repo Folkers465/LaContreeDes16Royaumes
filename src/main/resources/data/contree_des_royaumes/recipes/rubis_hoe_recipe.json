@@ -1,0 +1,27 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "1": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "contree_des_royaumes:rubis_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "contree_des_royaumes:blocks/saphir_ore_block",
+    "particle": "contree_des_royaumes:blocks/saphir_ore_block"
+  }
+}

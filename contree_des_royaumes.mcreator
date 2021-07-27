@@ -1,0 +1,1224 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BronzeIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_ingot",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_ore",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_block",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_ore_block_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_block_ore_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_ore_smelting",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_pickaxe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_sword",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_shovel",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_pickaxe_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_axe_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_sword_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_shovel_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_hoe_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_helmet_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_body_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_leggings_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "BronzeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze_armor_boots_recipe",
+      "path": "~/Bronze"
+    },
+    {
+      "name": "Vibranium",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_ore",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_block",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_ore_block_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_block_ore_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_ore_smelting",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumPickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_pickaxe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_axe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_sword",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_shovel",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_hoe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_pickaxe_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_axe_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_sword_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_shovel_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_hoe_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_armor_helmet_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_armor_body_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_armor_leggings_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "VibraniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vibranium_armor_boots_recipe",
+      "path": "~/Vibranium"
+    },
+    {
+      "name": "Rubis",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisOre",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_ore",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisBlock",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_block",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_ore_block_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_block_ore_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisOreSmelting",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_ore_smelting",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisPickaxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_pickaxe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisAxe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_axe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisSword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_sword",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisShovel",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_shovel",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisHoe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_hoe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_pickaxe_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisAxeRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_axe_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisSwordRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_sword_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisShovelRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_shovel_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisHoeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_hoe_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisArmor",
+      "type": "armor",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_armor_helmet_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_armor_body_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_armor_leggings_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "RubisArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_armor_boots_recipe",
+      "path": "~/Rubis"
+    },
+    {
+      "name": "Saphir",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirOre",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_ore",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirBlock",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_block",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_ore_block_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_block_ore_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirOreSmelting",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_ore_smelting",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirPickaxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_pickaxe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirAxe",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_axe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirSword",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_sword",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirShovel",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_shovel",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirHoe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_hoe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_pickaxe_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirAxeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_axe_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirSwordRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_sword_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirShovelRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_shovel_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirHoeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_hoe_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirArmor",
+      "type": "armor",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_armor_helmet_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_armor_body_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_armor_leggings_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "SaphirArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "saphir_armor_boots_recipe",
+      "path": "~/Saphir"
+    },
+    {
+      "name": "Crystal",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalOre",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_ore",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalBlock",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_block",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_ore_block_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_block_ore_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalOreSmelting",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_ore_smelting",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalPickaxe",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_pickaxe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalAxe",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_axe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalSword",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_sword",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalShovel",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_shovel",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalHoe",
+      "type": "tool",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_hoe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_pickaxe_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalAxeRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_axe_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalSwordRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_sword_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalShovelRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_shovel_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalHoeRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_hoe_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalArmor",
+      "type": "armor",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_armor_helmet_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_armor_body_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_armor_leggings_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "CrystalArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crystal_armor_boots_recipe",
+      "path": "~/Crystal"
+    },
+    {
+      "name": "Soufre",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soufre"
+    },
+    {
+      "name": "Schiste",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schiste"
+    },
+    {
+      "name": "CD16R",
+      "type": "tab",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cd_16_r"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.contree_des_royaumes.rubis_armor_boots": "Rubis Boots",
+      "item.contree_des_royaumes.saphir_armor_helmet": "Saphir Helmet",
+      "item.contree_des_royaumes.saphir_axe": "Saphir Axe",
+      "block.contree_des_royaumes.saphir_ore": "Saphir Ore",
+      "item.contree_des_royaumes.saphir_sword": "Saphir Sword",
+      "block.contree_des_royaumes.rubis_block": "Block of Rubis",
+      "item.contree_des_royaumes.crystal": "Crystal",
+      "item.contree_des_royaumes.vibranium_armor_leggings": "Vibranium Leggings",
+      "item.contree_des_royaumes.crystal_sword": "Crystal Sword",
+      "block.contree_des_royaumes.bronze_block": "Block of Bronze",
+      "item.contree_des_royaumes.rubis": "Rubis",
+      "item.contree_des_royaumes.rubis_armor_leggings": "Rubis Leggings",
+      "item.contree_des_royaumes.bronze_armor_boots": "Bronze Boots",
+      "item.contree_des_royaumes.crystal_hoe": "Crystal Hoe",
+      "item.contree_des_royaumes.crystal_armor_boots": "Crystal Boots",
+      "item.contree_des_royaumes.rubis_hoe": "Rubis Hoe",
+      "itemGroup.tabcd_16_r": "CD 1 6 R",
+      "item.contree_des_royaumes.bronze_pickaxe": "Bronze Pickaxe",
+      "item.contree_des_royaumes.rubis_shovel": "Rubis Shovel",
+      "item.contree_des_royaumes.bronze_armor_chestplate": "Bronze Chestplate",
+      "item.contree_des_royaumes.saphir_armor_leggings": "Saphir Leggings",
+      "item.contree_des_royaumes.vibranium": "Vibranium",
+      "item.contree_des_royaumes.crystal_shovel": "Crystal Shovel",
+      "item.contree_des_royaumes.rubis_armor_helmet": "Rubis Helmet",
+      "item.contree_des_royaumes.vibranium_sword": "Vibranium Sword",
+      "item.contree_des_royaumes.crystal_pickaxe": "Crystal Pickaxe",
+      "item.contree_des_royaumes.saphir_pickaxe": "Saphir Pickaxe",
+      "block.contree_des_royaumes.crystal_block": "Block of Crystal",
+      "block.contree_des_royaumes.vibranium_ore": "Vibranium Ore",
+      "item.contree_des_royaumes.bronze_armor_helmet": "Bronze Helmet",
+      "block.contree_des_royaumes.rubis_ore": "Rubis Ore",
+      "item.contree_des_royaumes.bronze_ingot": "Bronze",
+      "item.contree_des_royaumes.vibranium_axe": "Vibranium Axe",
+      "item.contree_des_royaumes.rubis_armor_chestplate": "Rubis Chestplate",
+      "item.contree_des_royaumes.saphir_shovel": "Saphir Shovel",
+      "item.contree_des_royaumes.saphir": "Saphir",
+      "item.contree_des_royaumes.saphir_hoe": "Saphir Hoe",
+      "item.contree_des_royaumes.bronze_axe": "Bronze Axe",
+      "item.contree_des_royaumes.vibranium_armor_chestplate": "Vibranium Chestplate",
+      "block.contree_des_royaumes.soufre": "Soufre",
+      "block.contree_des_royaumes.schiste": "Schiste",
+      "item.contree_des_royaumes.crystal_armor_chestplate": "Crystal Chestplate",
+      "item.contree_des_royaumes.vibranium_pickaxe": "Vibranium Pickaxe",
+      "item.contree_des_royaumes.crystal_armor_helmet": "Crystal Helmet",
+      "item.contree_des_royaumes.bronze_hoe": "Bronze Hoe",
+      "item.contree_des_royaumes.vibranium_armor_boots": "Vibranium Boots",
+      "item.contree_des_royaumes.bronze_shovel": "Bronze Shovel",
+      "block.contree_des_royaumes.saphir_block": "Block of Saphir",
+      "item.contree_des_royaumes.crystal_axe": "Crystal Axe",
+      "item.contree_des_royaumes.saphir_armor_chestplate": "Saphir Chestplate",
+      "block.contree_des_royaumes.crystal_ore": "Crystal Ore",
+      "item.contree_des_royaumes.saphir_armor_boots": "Saphir Boots",
+      "item.contree_des_royaumes.bronze_sword": "Bronze Sword",
+      "item.contree_des_royaumes.crystal_armor_leggings": "Crystal Leggings",
+      "item.contree_des_royaumes.rubis_pickaxe": "Rubis Pickaxe",
+      "item.contree_des_royaumes.rubis_axe": "Rubis Axe",
+      "block.contree_des_royaumes.bronze_ore": "Bronze Ore",
+      "item.contree_des_royaumes.vibranium_armor_helmet": "Vibranium Helmet",
+      "item.contree_des_royaumes.vibranium_hoe": "Vibranium Hoe",
+      "item.contree_des_royaumes.rubis_sword": "Rubis Sword",
+      "item.contree_des_royaumes.vibranium_shovel": "Vibranium Shovel",
+      "block.contree_des_royaumes.vibranium_block": "Block of Vibranium",
+      "item.contree_des_royaumes.bronze_armor_leggings": "Bronze Leggings"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Bronze",
+        "children": []
+      },
+      {
+        "name": "Vibranium",
+        "children": []
+      },
+      {
+        "name": "Rubis",
+        "children": []
+      },
+      {
+        "name": "Saphir",
+        "children": []
+      },
+      {
+        "name": "Crystal",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "contree_des_royaumes",
+    "modName": "Contree Des 16 Royaumes",
+    "version": "1.0.0.0",
+    "author": "Folkers",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Mod by Folkers",
+    "modElementsPackage": "net.mcreator.contreedesroyaumes",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,36 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "contree_des_royaumes:crystal"
+    },
+    "1": {
+      "item": "contree_des_royaumes:crystal"
+    },
+    "2": {
+      "item": "contree_des_royaumes:crystal"
+    },
+    "3": {
+      "item": "contree_des_royaumes:crystal"
+    },
+    "5": {
+      "item": "contree_des_royaumes:crystal"
+    },
+    "6": {
+      "item": "contree_des_royaumes:crystal"
+    },
+    "8": {
+      "item": "contree_des_royaumes:crystal"
+    }
+  },
+  "result": {
+    "item": "contree_des_royaumes:crystal_armor_leggings",
+    "count": 1
+  }
+}

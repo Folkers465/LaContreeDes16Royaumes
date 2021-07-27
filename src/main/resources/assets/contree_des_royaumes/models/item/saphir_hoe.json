@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "contree_des_royaumes:items/saphir_hoe"
+  }
+}

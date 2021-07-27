@@ -1,0 +1,26 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "2": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "3": {
+      "item": "contree_des_royaumes:vibranium"
+    },
+    "5": {
+      "item": "contree_des_royaumes:vibranium"
+    }
+  },
+  "result": {
+    "item": "contree_des_royaumes:vibranium_armor_boots",
+    "count": 1
+  }
+}

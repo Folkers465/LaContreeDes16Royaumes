@@ -1,0 +1,12 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "contree_des_royaumes:crystal_ore"
+  },
+  "result": {
+    "item": "contree_des_royaumes:crystal"
+  }
+}

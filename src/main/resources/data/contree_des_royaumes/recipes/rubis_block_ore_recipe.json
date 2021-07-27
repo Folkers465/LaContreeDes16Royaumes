@@ -1,0 +1,13 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "contree_des_royaumes:rubis_block"
+    }
+  ],
+  "result": {
+    "item": "contree_des_royaumes:rubis",
+    "count": 9
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "1": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "2": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "3": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "4": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "5": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "6": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "7": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "8": {
+      "item": "contree_des_royaumes:rubis"
+    }
+  },
+  "result": {
+    "item": "contree_des_royaumes:rubis_block",
+    "count": 1
+  }
+}

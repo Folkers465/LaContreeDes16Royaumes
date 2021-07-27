@@ -1,0 +1,29 @@
+{
+  "group": "contree_des_royaumes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "1": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "2": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "3": {
+      "item": "contree_des_royaumes:rubis"
+    },
+    "5": {
+      "item": "contree_des_royaumes:rubis"
+    }
+  },
+  "result": {
+    "item": "contree_des_royaumes:rubis_armor_helmet",
+    "count": 1
+  }
+}
